@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "fboucher",
+      "name": "Frank Boucher",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2404846?v=4",
+      "profile": "http://cloud5mins.com",
+      "contributions": [
+        "ideas",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "learningaz900",
+  "projectOwner": "FBoucher",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
