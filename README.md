@@ -6,4 +6,4 @@ The website is available here: [https://learningaz900.com](https://learningaz900
 
 If you have question visit the [Discusion section](https://github.com/FBoucher/learningaz900/discussions)
 
-If you have content you would like to share read the [documentation]() or ask in [Discusion section](https://github.com/FBoucher/learningaz900/discussions) the if you don't find your answer.
+If you have content you would like to share read the [documentation](https://github.com/FBoucher/learningaz900/tree/main/docs) or ask in [Discusion section](https://github.com/FBoucher/learningaz900/discussions) the if you don't find your answer.
