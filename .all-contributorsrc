@@ -14,6 +14,15 @@
         "ideas",
         "code"
       ]
+    },
+    {
+      "login": "LucioMSP",
+      "name": "Vicente G. Guzmán Lucio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6353852?v=4",
+      "profile": "https://vicenteguzman.mx/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
