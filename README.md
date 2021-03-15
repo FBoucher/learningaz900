@@ -1,6 +1,6 @@
 # Learning Azure Fundamental (Az900) in Different Languages
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ## Learning Together
 
@@ -22,6 +22,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="http://cloud5mins.com"><img src="https://avatars.githubusercontent.com/u/2404846?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Frank Boucher</b></sub></a><br /><a href="#ideas-fboucher" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/FBoucher/learningaz900/commits?author=fboucher" title="Code">💻</a></td>
+    <td align="center"><a href="https://vicenteguzman.mx/"><img src="https://avatars.githubusercontent.com/u/6353852?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Vicente G. Guzmán Lucio</b></sub></a><br /><a href="https://github.com/FBoucher/learningaz900/commits?author=LucioMSP" title="Documentation">📖</a></td>
   </tr>
 </table>
 
