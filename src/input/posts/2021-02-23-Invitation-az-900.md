@@ -14,3 +14,13 @@ Tous les jeudi soir, on aura un rendez-vous pour s'en parler.
 Je vous attends!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eKiTeznPru4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+## Auteur: Lucas De Carli
+
+![Lucas De Carli](https://avatars.githubusercontent.com/u/4472823?s=460&u=37d097ad8cdf91316d0f8231cd41f25c68c15e88&v=4)
+
+**YouTube:** https://www.youtube.com/c/CloudAvecLucas
+
+GitHub: https://github.com/lcarli
