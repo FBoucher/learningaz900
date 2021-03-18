@@ -23,7 +23,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="http://cloud5mins.com"><img src="https://avatars.githubusercontent.com/u/2404846?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Frank Boucher</b></sub></a><br /><a href="#ideas-fboucher" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/FBoucher/learningaz900/commits?author=fboucher" title="Code">💻</a></td>
     <td align="center"><a href="https://vicenteguzman.mx/"><img src="https://avatars.githubusercontent.com/u/6353852?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Vicente G. Guzmán Lucio</b></sub></a><br /><a href="https://github.com/FBoucher/learningaz900/commits?author=LucioMSP" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/lcarli"><img src="https://avatars.githubusercontent.com/u/4472823?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Lucas Humenhuk</b></sub></a><br /><a href="#video-lcarli" title="Videos">📹</a></td>
+    <td align="center"><a href="https://github.com/lcarli"><img src="https://avatars.githubusercontent.com/u/4472823?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Lucas Humenhuk</b></sub></a><br /><a href="#video-lcarli" title="Videos">📹</a> <a href="https://github.com/FBoucher/learningaz900/commits?author=lcarli" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/renatogroffe"><img src="https://avatars.githubusercontent.com/u/8309296?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Renato Groffe</b></sub></a><br /><a href="#video-renatogroffe" title="Videos">📹</a></td>
   </tr>
 </table>
