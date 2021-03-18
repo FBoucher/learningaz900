@@ -2,7 +2,8 @@
 Title: Invitation - AZ 900
 Description: Invitation - AZ 900
 Lead: Az900 en francais par Lucas
-Image: https://img.youtube.com/vi/eKiTeznPru4/hqdefault.jpg
+Author: Lucas De Carli
+# Image: https://img.youtube.com/vi/eKiTeznPru4/hqdefault.jpg
 Tags: [francais,azure,az900,intro]
 Published: 2021-02-23
 ---
