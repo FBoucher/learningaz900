@@ -19,10 +19,10 @@ Header of a post **must** contains those
 Title: Title of your post
 Description: Short description
 Lead: Name of your series (ex: Az900 en francais par Lucas)
-Tags: the language used for this content (in the languege so French would be Francais). 
+Tags: the language used for this content (if the post is in French then it would be Francais). 
 Published: Date when the event was publish using the format yyyy-MM-dd
 
-Here and eample 
+Here and example 
 ```
 ---
 Title: AZ-900 - Module 1 - Concepts d'Azure
@@ -33,7 +33,7 @@ Published: 2021-02-25
 ---
 ```
 
-To embede your YouTube video copy/paste the code from YouTube in Share/ embed
+To embed your YouTube video copy/paste the code from YouTube in Share/ embed
 
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/___________" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
