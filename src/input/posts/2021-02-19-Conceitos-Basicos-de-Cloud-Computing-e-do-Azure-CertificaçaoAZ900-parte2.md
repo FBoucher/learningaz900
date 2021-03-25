@@ -2,7 +2,7 @@
 Title: Conceitos Básicos de Cloud Computing e do Azure + Certificação AZ-900 | parte 2
 Description: Confira neste evento ONLINE e GRATUITO do canal Coding Night a primeira parte de uma série cobrindo conceitos básicos de cloud computing
 Lead: Preparando ara uma certificação AZ-900 para Coding Night
-Image: https://img.youtube.com/vi/IaAJigwUK5Q/hqdefault.jpg
+# Image: https://img.youtube.com/vi/IaAJigwUK5Q/hqdefault.jpg
 featured-image:: https://img.youtube.com/vi/IaAJigwUK5Q/hqdefault.jpg
 Tags: [portugues,azure,az900,module 2]
 Published: 2021-02-19
