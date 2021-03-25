@@ -40,10 +40,11 @@ Azure Fundamentals 인증 시험은 클라우드 기반 솔루션 및 서비스 
 
 ---
 
-## Auteur: Justin Yoo
+## 저자: Justin Yoo
 
 ![Justin Yoo](https://developer.microsoft.com/en-us/advocates/media/profiles/justin-yoo.png)
 
 GitHub: https://github.com/devkimchi
+
 **Twitter**: https://twitter.com/justinchronicle
 
