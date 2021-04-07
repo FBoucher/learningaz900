@@ -12,9 +12,9 @@ If you have content you would like to share read the [documentation](https://git
 
 There is curently community videos available in:
 
-- <a href="/tags/portugues" >Français</a>
+- <a href="/tags/francais" >Français</a>
 - <a href="/tags/portugues" >Português</a>
-- <a href="/tags/portugues" >한국어</a>
+- <a href="/tags/korean" >한국어</a>
 
 Join us and let's learn together!
 
