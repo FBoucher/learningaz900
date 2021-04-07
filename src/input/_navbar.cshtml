@@ -1,0 +1,23 @@
+<ul class="navbar-nav ml-auto">
+    <li class="nav-item">
+        <a href="/tags/portugues" class="nav-link">Français</a>
+    </li>
+    <li class="nav-item">
+        <a href="/tags/portugues" class="nav-link">Português</a>
+    </li>
+    <li class="nav-item">
+        <a href="/tags/portugues" class="nav-link">한국어</a>
+    </li>
+    <li class="nav-item"><a href="#" class="nav-link">&nbsp;|&nbsp;</a></li>
+    
+    @foreach(IDocument doc in OutputPages.GetChildrenOf("index.html").Where(x => x.GetBool("ShowInNavbar", true)).OrderBy(x => x.GetInt(Keys.Order)))
+    {
+        // Don't add the home page to the nav bar
+        if (doc.Destination != "index.html")
+        {
+            <li class="nav-item">
+                @Html.DocumentLink(doc, new Dictionary<object, object> { { "class", "nav-link" } })
+            </li>
+        }
+    }
+</ul>
