@@ -11,7 +11,7 @@ If you have question visit the [Discusion section](https://github.com/FBoucher/l
 
 If you have content you would like to share read the [documentation](https://github.com/FBoucher/learningaz900/tree/main/docs) or ask in [Discusion section](https://github.com/FBoucher/learningaz900/discussions) the if you don't find your answer.
 
-![Cloud Planet logo](assets/cloud-planet.png)
+![Cloud Planet logo](assets/website_screenshot.png)
 
 ## Contributors ✨
 
