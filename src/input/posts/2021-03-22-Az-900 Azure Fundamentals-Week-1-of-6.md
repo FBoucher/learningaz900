@@ -21,12 +21,12 @@ Azure Fundamentals 인증 시험은 클라우드 기반 솔루션 및 서비스 
 
 ## 일정 ##
 
-* [Azure 기본 사항 파트 1](https://aka.ms/msdevkr/az900/1​) 핵심 Azure 개념에 관해 설명하기 👈
-* [Azure 기본 사항 파트 2](https://aka.ms/msdevkr/az900/2​) 핵심 Azure 서비스에 대해 설명하기
-* [Azure 기본 사항 파트 3](https://aka.ms/msdevkr/az900/3​) Azure의 핵심 솔루션 및 관리 도구에 관해 설명하기
-* [Azure 기본 사항 파트 4](https://aka.ms/msdevkr/az900/4​) 일반적인 보안 및 네트워크 보안 기능에 관해 설명하기
-* [Azure 기본 사항 파트 5](https://aka.ms/msdevkr/az900/5​) ID, 거버넌스, 개인 정보 보호 및 규정 준수 기능에 대해 설명하기
-* [Azure 기본 사항 파트 6](https://aka.ms/msdevkr/az900/6​) Azure 비용 관리 및 서비스 수준 계약에 대해 설명하기
+* [Azure 기본 사항 파트 1](https://aka.ms/msdevkr/az900/1) 핵심 Azure 개념에 관해 설명하기 👈
+* [Azure 기본 사항 파트 2](https://aka.ms/msdevkr/az900/2) 핵심 Azure 서비스에 대해 설명하기
+* [Azure 기본 사항 파트 3](https://aka.ms/msdevkr/az900/3) Azure의 핵심 솔루션 및 관리 도구에 관해 설명하기
+* [Azure 기본 사항 파트 4](https://aka.ms/msdevkr/az900/4) 일반적인 보안 및 네트워크 보안 기능에 관해 설명하기
+* [Azure 기본 사항 파트 5](https://aka.ms/msdevkr/az900/5) ID, 거버넌스, 개인 정보 보호 및 규정 준수 기능에 대해 설명하기
+* [Azure 기본 사항 파트 6](https://aka.ms/msdevkr/az900/6) Azure 비용 관리 및 서비스 수준 계약에 대해 설명하기
 
 <!--more-->
 
