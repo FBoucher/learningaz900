@@ -53,6 +53,15 @@
         "doc",
         "content"
       ]
+    },
+    {
+      "login": "pablodiloreto",
+      "name": "Pablo Ariel Di Loreto",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11262401?v=4",
+      "profile": "https://www.tectimes.net/",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
