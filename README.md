@@ -1,6 +1,6 @@
 # Learning Azure Fundamental (Az900) in Different Languages
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ## Learning Together
 
@@ -27,6 +27,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/lcarli"><img src="https://avatars.githubusercontent.com/u/4472823?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Lucas Humenhuk</b></sub></a><br /><a href="#video-lcarli" title="Videos">📹</a> <a href="https://github.com/FBoucher/learningaz900/commits?author=lcarli" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/renatogroffe"><img src="https://avatars.githubusercontent.com/u/8309296?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Renato Groffe</b></sub></a><br /><a href="#video-renatogroffe" title="Videos">📹</a></td>
     <td align="center"><a href="https://devkimchi.com"><img src="https://avatars.githubusercontent.com/u/1538528?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Justin Yoo</b></sub></a><br /><a href="#video-justinyoo" title="Videos">📹</a> <a href="https://github.com/FBoucher/learningaz900/commits?author=justinyoo" title="Documentation">📖</a> <a href="#content-justinyoo" title="Content">🖋</a></td>
+    <td align="center"><a href="https://www.tectimes.net/"><img src="https://avatars.githubusercontent.com/u/11262401?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Pablo Ariel Di Loreto</b></sub></a><br /><a href="#content-pablodiloreto" title="Content">🖋</a></td>
   </tr>
 </table>
 
